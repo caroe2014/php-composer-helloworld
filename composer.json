@@ -7,7 +7,7 @@
             "email": "sanjeev.kumar@intimetec.com"
         }
     ],
-	"minimum-stability": "stable",
+	"minimum-stability": "stable", 
     "require": {
 		"php": ">=5.3.0"
 	},
