@@ -8,7 +8,7 @@ class SayHello
 		$abc = 10;
 		$abcd = 100;
 		$abcde = 1000;
-        return 'Hello World, Composer!';
+        return 'Hello Composer! From App Service';
     }
 }
 ?>
